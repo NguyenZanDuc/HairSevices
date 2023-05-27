@@ -15,7 +15,7 @@ import { Card, Col, Row, Button, Text } from "@nextui-org/react";
     </Card.Header>
     <Card.Body css={{ p: 0 }}>
       <Card.Image
-        src="https://nextui.org/images/card-example-6.jpeg"
+        src="https://www.thewowstyle.com/wp-content/uploads/2015/03/57e1a4b703fcaec3d8df245c554c0021mens-hairstyles.jpg"
         width="100%"
         height="100%"
         objectFit="cover"
