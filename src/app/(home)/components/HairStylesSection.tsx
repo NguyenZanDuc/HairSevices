@@ -12,11 +12,6 @@ const HairStylesSection = (props: Props) => {
             <CardAByNextUi />
             <CardAByNextUi />
             <CardAByNextUi />
-            <CardAByNextUi />
-            <CardAByNextUi />
-            <CardAByNextUi />
-            <CardAByNextUi />
-            <CardAByNextUi />
         </div>
     </section>
   )
