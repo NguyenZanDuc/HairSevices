@@ -8,6 +8,7 @@ import { Card, Col, Row, Button, Text } from "@nextui-org/react";
         <Text size={12} weight="bold" transform="uppercase" color="#ffffffAA">
           New
         </Text>
+
         <Text h3 color="black">
           Acme camera
         </Text>
